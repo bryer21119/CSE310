@@ -1,0 +1,27 @@
+<FlashCardApp>
+    <Title>Flash Card App</Title>
+    <Components>
+        <JLabel>
+            <HorizontalAlignment>CENTER</HorizontalAlignment>
+            <VerticalAlignment>CENTER</VerticalAlignment>
+            <Opaque>true</Opaque>
+            <BorderColor>BLACK</BorderColor>
+            <BackgroundColor>WHITE</BackgroundColor>
+            <Font>
+                <Name>Arial</Name>
+                <Style>PLAIN</Style>
+                <Size>20</Size>
+            </Font>
+            <Focusable>true</Focusable>
+        </JLabel>
+        <JButton>
+            <Text>Flip</Text>
+            <Font>
+                <Name>Arial</Name>
+                <Style>PLAIN</Style>
+                <Size>20</Size>
+            </Font>
+            <Focusable>true</Focusable>
+        </JButton>
+    </Components>
+</FlashCardApp>
